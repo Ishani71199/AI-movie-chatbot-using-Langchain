@@ -43,3 +43,13 @@ This project builds a **natural language question-answering system** over an IMD
 ## 🛠️ Installation
 
 pip install -r requirements.txt
+
+## 🧪 Run the Notebook
+
+Run the individual cells.
+
+## 👩‍💻 Limitation Observed
+1. Model may occasionally misinterpret ambiguous queries.
+2. The quality of answer is highly dependend on the prompt used.
+
+### 🌟 Star this repo if you found it helpful!
